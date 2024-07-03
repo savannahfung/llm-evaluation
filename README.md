@@ -1,4 +1,4 @@
-# llm-evaluation
+# Large Language Models Evaluation
 
 ## Requirements
 
